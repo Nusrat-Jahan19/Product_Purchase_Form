@@ -1,0 +1,11 @@
+D:\Visual Studio\Assignment2\Assignment2\bin\Debug\Assignment2.exe.config
+D:\Visual Studio\Assignment2\Assignment2\bin\Debug\Assignment2.exe
+D:\Visual Studio\Assignment2\Assignment2\bin\Debug\Assignment2.pdb
+D:\Visual Studio\Assignment2\Assignment2\obj\Debug\Assignment2.Form1.resources
+D:\Visual Studio\Assignment2\Assignment2\obj\Debug\Assignment2.Properties.Resources.resources
+D:\Visual Studio\Assignment2\Assignment2\obj\Debug\Assignment2.csproj.GenerateResource.cache
+D:\Visual Studio\Assignment2\Assignment2\obj\Debug\Assignment2.csproj.CoreCompileInputs.cache
+D:\Visual Studio\Assignment2\Assignment2\obj\Debug\Assignment2.exe
+D:\Visual Studio\Assignment2\Assignment2\obj\Debug\Assignment2.pdb
+D:\Visual Studio\Assignment2\Assignment2\obj\Debug\Assignment2.csproj.AssemblyReference.cache
+D:\Visual Studio\Assignment2\Assignment2\obj\Debug\Assignment2.Purchase.resources
